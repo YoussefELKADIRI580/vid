@@ -1,0 +1,286 @@
+[
+{
+"type": "P",
+"startFrame": 1,
+"durationInFrames": 120,
+"props": {
+"title": "C++"
+}
+},
+{
+"type": "H",
+"startFrame": 225,
+"durationInFrames": 200,
+"props": {
+"keywords": [
+"قوية",
+"سريعة",
+"صعبة المراس"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 346,
+"durationInFrames": 120,
+"props": {
+"title": "Hardware Control"
+}
+},
+{
+"type": "H",
+"startFrame": 381,
+"durationInFrames": 180,
+"props": {
+"keywords": [
+"العتاد",
+"الذاكرة"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 527,
+"durationInFrames": 150,
+"props": {
+"title": "1979"
+}
+},
+{
+"type": "Per",
+"startFrame": 617,
+"durationInFrames": 120,
+"props": {
+"name": "Bjarne Stroustrup",
+"date": "1979",
+"imageSrc": "bjarne.jpg"
+}
+},
+{
+"type": "P",
+"startFrame": 665,
+"durationInFrames": 120,
+"props": {
+"title": "Bell Labs"
+}
+},
+{
+"type": "H",
+"startFrame": 750,
+"durationInFrames": 250,
+"props": {
+"keywords": [
+"C Language",
+"Efficiency"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 790,
+"durationInFrames": 120,
+"props": {
+"title": "C"
+}
+},
+{
+"type": "P",
+"startFrame": 912,
+"durationInFrames": 150,
+"props": {
+"title": "OOP"
+}
+},
+{
+"type": "H",
+"startFrame": 1077,
+"durationInFrames": 200,
+"props": {
+"keywords": [
+"أنظمة التشغيل",
+"محركات الألعاب"
+]
+}
+},
+{
+"type": "H",
+"startFrame": 1232,
+"durationInFrames": 220,
+"props": {
+"keywords": [
+"Unreal Engine",
+"Adobe Premiere"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 1250,
+"durationInFrames": 100,
+"props": {
+"title": "Unreal Engine"
+}
+},
+{
+"type": "H",
+"startFrame": 1435,
+"durationInFrames": 200,
+"props": {
+"keywords": [
+"Chrome",
+"MySQL"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 1496,
+"durationInFrames": 120,
+"props": {
+"title": "MySQL"
+}
+},
+{
+"type": "H",
+"startFrame": 1690,
+"durationInFrames": 200,
+"props": {
+"keywords": [
+"إدارة الذاكرة",
+"دقة متناهية"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 1908,
+"durationInFrames": 120,
+"props": {
+"title": "Compiler"
+}
+},
+{
+"type": "P",
+"startFrame": 1945,
+"durationInFrames": 150,
+"props": {
+"title": "GCC"
+}
+},
+{
+"type": "P",
+"startFrame": 2040,
+"durationInFrames": 120,
+"props": {
+"title": ".cpp"
+}
+},
+{
+"type": "H",
+"startFrame": 2123,
+"durationInFrames": 250,
+"props": {
+"keywords": [
+"Iostream",
+"الإدخال",
+"الإخراج"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 2284,
+"durationInFrames": 150,
+"props": {
+"title": "main()"
+}
+},
+{
+"type": "H",
+"startFrame": 2467,
+"durationInFrames": 220,
+"props": {
+"keywords": [
+"Classes",
+"Polymorphism"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 2518,
+"durationInFrames": 150,
+"props": {
+"title": "Polymorphism"
+}
+},
+{
+"type": "H",
+"startFrame": 2697,
+"durationInFrames": 250,
+"props": {
+"keywords": [
+"Pointers",
+"المؤشرات"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 2767,
+"durationInFrames": 120,
+"props": {
+"title": "Memory Keys"
+}
+},
+{
+"type": "H",
+"startFrame": 2950,
+"durationInFrames": 200,
+"props": {
+"keywords": [
+"Shoot",
+"Your",
+"Foot"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 3100,
+"durationInFrames": 120,
+"props": {
+"title": "C++"
+}
+},
+{
+"type": "H",
+"startFrame": 3205,
+"durationInFrames": 220,
+"props": {
+"keywords": [
+"تمرين للعقل",
+"نادي المبرمجين"
+]
+}
+},
+{
+"type": "P",
+"startFrame": 3495,
+"durationInFrames": 150,
+"props": {
+"title": "100 Seconds"
+}
+},
+{
+"type": "H",
+"startFrame": 3598,
+"durationInFrames": 200,
+"props": {
+"keywords": [
+"Like",
+"Subscribe"
+]
+}
+}
+]

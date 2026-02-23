@@ -1,0 +1,20 @@
+[
+  { "emotion": "happy", "duration": 125 },
+  { "emotion": "surprised", "duration": 150 },
+  { "emotion": "thinking", "duration": 250 },
+  { "emotion": "happy", "duration": 210 },
+  { "emotion": "thinking", "duration": 240 },
+  { "emotion": "happy", "duration": 240 },
+  { "emotion": "surprised", "duration": 240 },
+  { "emotion": "thinking", "duration": 180 },
+  { "emotion": "happy", "duration": 180 },
+  { "emotion": "thinking", "duration": 225 },
+  { "emotion": "happy", "duration": 180 },
+  { "emotion": "thinking", "duration": 300 },
+  { "emotion": "surprised", "duration": 240 },
+  { "emotion": "thinking", "duration": 240 },
+  { "emotion": "happy", "duration": 240 },
+  { "emotion": "surprised", "duration": 240 },
+  { "emotion": "happy", "duration": 120 },
+  { "emotion": "happy", "duration": 300 }
+]

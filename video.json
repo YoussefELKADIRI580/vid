@@ -1,0 +1,23 @@
+{
+  "fps": 30,
+  "slides": [
+    {
+      "image": "/images/photo1.png",
+      "duration": 5,
+      "animation": "zoom-in"
+    },
+    {
+      "image": "/images/photo2.png",
+      "duration": 4,
+      "animation": "pan-left"
+    }
+  ],
+  "subtitleStyle": {
+    "fontSize": 70,
+    "color": "#FFD700",
+    "strokeColor": "#000000",
+    "strokeWidth": 6,
+    "shadowColor": "rgba(0,0,0,0.8)",
+    "position": "bottom"
+  }
+}
